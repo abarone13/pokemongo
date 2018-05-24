@@ -1,5 +1,5 @@
 !!brut.androlib.meta.MetaInfo
-apkFileName: pogo-103.3.apk
+apkFileName: pogo-103.5.apk
 compressionType: false
 doNotCompress:
 - arsc
@@ -219,5 +219,5 @@ usesFramework:
   tag: null
 version: 2.3.3
 versionInfo:
-  versionCode: '2018051500'
-  versionName: 0.103.3
+  versionCode: '2018052200'
+  versionName: 0.103.5

@@ -114,7 +114,7 @@
         <meta-data android:name="com.upsight.user_attribute.integer.experiment_id_7" android:value="0"/>
         <meta-data android:name="com.upsight.user_attribute.integer.experiment_id_8" android:value="0"/>
         <meta-data android:name="com.upsight.user_attribute.integer.experiment_id_9" android:value="0"/>
-        <meta-data android:name="unity.build-id" android:value="972aede0-9f42-42d9-955d-4ddda2610bf4"/>
+        <meta-data android:name="unity.build-id" android:value="aa3e73c9-dd5f-49ba-a6d2-8486c84ef4dc"/>
         <meta-data android:name="unity.splash-mode" android:value="2"/>
         <meta-data android:name="unity.splash-enable" android:value="true"/>
         <activity android:name="com.nianticlabs.nia.account.AccountsActivity" android:screenOrientation="portrait" android:theme="@android:style/Theme.Black.NoTitleBar"/>
